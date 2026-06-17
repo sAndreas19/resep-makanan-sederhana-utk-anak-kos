@@ -27,8 +27,7 @@ Aplikasi ini dibangun dengan beberapa komponen utama:
 
 | Halaman Beranda (Home Screen) | Detail Resep (Recipe Detail) |
 | :---: | :---: |
-| <img width="250" alt="halaman daftar resep" src="https://github.com/user-attachments/assets/df904bdc-2fc7-42d5-9b73-17443bbab259" />
- | <img width="250" alt="halaman deskripsi reser" src="https://github.com/user-attachments/assets/a00f92a7-6e2f-4ff8-9ead-071822e5b286" />
+| <img width="250" alt="halaman daftar resep" src="https://github.com/user-attachments/assets/df904bdc-2fc7-42d5-9b73-17443bbab259" /> | <img width="250" alt="halaman deskripsi reser" src="https://github.com/user-attachments/assets/a00f92a7-6e2f-4ff8-9ead-071822e5b286" />
  |
 
 ## 🚀 Cara Menjalankan Proyek di Komputer Lokal
