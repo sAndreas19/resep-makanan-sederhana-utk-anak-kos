@@ -27,7 +27,9 @@ Aplikasi ini dibangun dengan beberapa komponen utama:
 
 | Halaman Beranda (Home Screen) | Detail Resep (Recipe Detail) |
 | :---: | :---: |
-| <img src="[URL_GAMBAR_HOMESCREEN]" width="250"> | <img src="[URL_GAMBAR_DETAIL]" width="250"> |
+| <img width="1170" height="1378" alt="image" src="https://github.com/user-attachments/assets/df904bdc-2fc7-42d5-9b73-17443bbab259" />
+ | <img width="1238" height="1481" alt="image" src="https://github.com/user-attachments/assets/a00f92a7-6e2f-4ff8-9ead-071822e5b286" />
+ |
 
 ## 🚀 Cara Menjalankan Proyek di Komputer Lokal
 1. Pastikan komputer kamu sudah terpasang [Flutter SDK](https://docs.flutter.dev/get-started/install).
